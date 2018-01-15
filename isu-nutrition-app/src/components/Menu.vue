@@ -62,7 +62,7 @@
                 let dateString = monthNames[date.getMonth()] + '_' + date.getDate() + '_' + date.getFullYear()
                 console.log(dateString)
 
-                let url = 'https://sethpipho.github.io/isu-nutrition-data/data/' + this.diningCenterName.split(' ').join('_') + '/' + dateString + '.json' 
+                let url = 'https://sethpipho.github.io/isu-nutrition/isu-nutrition-data/data/' + this.diningCenterName.split(' ').join('_') + '/' + dateString + '.json' 
 
                 console.log(url)
 

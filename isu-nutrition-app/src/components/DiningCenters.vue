@@ -23,7 +23,7 @@
           
         },
         mounted(){
-           axios.get('https://sethpipho.github.io/isu-nutrition-data/data/dining-centers.json')
+           axios.get('https://sethpipho.github.io/isu-nutrition/isu-nutrition-data/data/dining-centers.json')
            .then(reponse => {
                this.diningCenters = reponse.data
            })
