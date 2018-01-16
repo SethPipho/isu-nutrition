@@ -3,6 +3,12 @@
     <br>
        <h3> {{diningCenterName}} </h3>
 
+       <h5> 
+           <span @click="decrementDate()" class="date-arrow"> <<<< </span>
+            {{dateString}} 
+             <span @click="incrementDate()" class="date-arrow"> >>>> </span>
+       </h5>
+
         <select v-model="selectedMeal" class="form-control">
             <option value="all">All </option>
             <option  v-for="(mealData,mealName) in menu" :value="mealName">{{mealName}}</option> 
@@ -44,25 +50,42 @@
             return{
                diningCenterName:'',
                menu: {},
-               selectedMeal:''
+               selectedMeal:'',
+               date: new Date(),
+               dateString: ''
             }
+        },
+        computed: {
+           
         },
         methods: {
             formatMacros:function(str){
                 return isNaN(parseInt(str)) ? "<1":parseInt(str);
             },
+            incrementDate(){
+                this.date.setDate(this.date.getDate() + 1)
+                this.update()
+            },
+            decrementDate() {
+                this.date.setDate(this.date.getDate() - 1)
+                this.update()
+            },
+
             update() {
+                this.menu = {}
                 this.diningCenterName = this.$route.params.diningCenterName
 
-                var monthNames = ["January", "February", "March", "April", "May", "June",
+                let monthNames = ["January", "February", "March", "April", "May", "June",
                                     "July", "August", "September", "October", "November", "December"
                 ];
 
-                let date = new Date();
-                let dateString = monthNames[date.getMonth()] + '_' + date.getDate() + '_' + date.getFullYear()
-                console.log(dateString)
+                
+                let dateURL = monthNames[this.date.getMonth()] + '_' + this.date.getDate() + '_' + this.date.getFullYear()
+                this.dateString =  monthNames[this.date.getMonth()] + ' ' + this.date.getDate() + ' ' + this.date.getFullYear()
 
-                let url = 'https://sethpipho.github.io/isu-nutrition/isu-nutrition-data/data/' + this.diningCenterName.split(' ').join('_') + '/' + dateString + '.json' 
+                console.log(dateURL)
+
+                let url = 'https://sethpipho.github.io/isu-nutrition/isu-nutrition-data/data/' + this.diningCenterName.split(' ').join('_') + '/' + dateURL+ '.json' 
 
                 console.log(url)
 
@@ -94,6 +117,10 @@
     .macros {
         text-align:right;
         min-width:10em;
+    }
+
+    .date-arrow{
+        color:#2196F3;
     }
 
 </style>
