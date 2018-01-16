@@ -1,13 +1,12 @@
 <template>
     <div>
-    <br>
-       <h3> {{diningCenterName}} </h3>
-
-       <h5> 
-           <span @click="decrementDate()" class="date-arrow"> <<<< </span>
+        <br>
+        <h3> {{diningCenterName}} </h3>
+        <h5> 
+            <span @click="decrementDate()" class="date-arrow"> <<<< </span>
             {{dateString}} 
-             <span @click="incrementDate()" class="date-arrow"> >>>> </span>
-       </h5>
+            <span @click="incrementDate()" class="date-arrow"> >>>> </span>
+        </h5>
 
         <select v-model="selectedMeal" class="form-control">
             <option value="all">All </option>
@@ -17,27 +16,19 @@
         
         <div  v-for="(stationData, stationName) in menu[selectedMeal]">
             <h5> {{ stationName }} </h5>
-           
-           
             <table class="table">
-           
-            <tbody>
-                <tr  v-for="food in stationData">
-                    <td> <b> {{food.name}} </b> <br> ({{food.servingSize}})</td>
-                    <td class='macros'>
-                    <span> <b> {{food.calories}} </b> </span>
-                    | <span style="color:red">{{formatMacros(food['fat'])}} </span>
-                    | <span style="color:green">{{formatMacros(food['carbs'])}} </span>
-                    | <span style="color:blue">{{formatMacros(food['protein'])}} </span>
-                    
-                    </td>
-                   
-                  
-                </tr>
-            </tbody>
-            </table>
-            
-                
+                <tbody>
+                    <tr  v-for="food in stationData">
+                        <td> <b> {{food.name}} </b> <br> ({{food.servingSize}})</td>
+                        <td class='macros'>
+                        <span> <b> {{food.calories}} </b> </span>
+                            | <span style="color:red">{{formatMacros(food['fat'])}} </span>
+                            | <span style="color:green">{{formatMacros(food['carbs'])}} </span>
+                            | <span style="color:blue">{{formatMacros(food['protein'])}} </span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table> 
         </div> 
     </div>
 </template>
@@ -74,20 +65,12 @@
             update() {
                 this.menu = {}
                 this.diningCenterName = this.$route.params.diningCenterName
-
-                let monthNames = ["January", "February", "March", "April", "May", "June",
-                                    "July", "August", "September", "October", "November", "December"
-                ];
-
                 
+                let monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
                 let dateURL = monthNames[this.date.getMonth()] + '_' + this.date.getDate() + '_' + this.date.getFullYear()
                 this.dateString =  monthNames[this.date.getMonth()] + ' ' + this.date.getDate() + ' ' + this.date.getFullYear()
 
-                console.log(dateURL)
-
                 let url = 'https://sethpipho.github.io/isu-nutrition/isu-nutrition-data/data/' + this.diningCenterName.split(' ').join('_') + '/' + dateURL+ '.json' 
-
-                console.log(url)
 
                 axios.get(url)
                     .then(respone => {
@@ -109,18 +92,14 @@
     }
 </script>
 <style>
-
     .food-row {
         border-bottom: 1px solid black;
     }
-
     .macros {
         text-align:right;
         min-width:10em;
     }
-
     .date-arrow{
         color:#2196F3;
     }
-
 </style>
