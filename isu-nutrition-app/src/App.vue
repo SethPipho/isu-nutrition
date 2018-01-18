@@ -16,5 +16,11 @@ export default {
 </script>
 
 <style>
-  @import './assets/style/bootstrap.min.css'
+  @import './assets/style/milligram.min.css';
+  @import 'http://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic';
+
+  body{
+     font-size: 1.2em;
+  }
+
 </style>

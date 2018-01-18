@@ -100,6 +100,6 @@
         min-width:10em;
     }
     .date-arrow{
-        color:#2196F3;
+        color:#9b4dca;
     }
 </style>
