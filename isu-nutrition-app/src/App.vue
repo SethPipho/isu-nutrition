@@ -28,4 +28,7 @@ export default {
     margin-bottom:10px;
   }
 
+ a {
+   cursor:pointer;
+ }
 </style>

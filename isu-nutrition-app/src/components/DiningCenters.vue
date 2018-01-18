@@ -4,7 +4,7 @@
        <h3> Dining Centers </h3>
        <hr>
        <div v-for="diningCenter in diningCenters">
-            <router-link :to="diningCenter" > <h6> {{diningCenter}} </h6> </router-link>
+            <router-link :to="diningCenter" >  <a>  <h6>{{diningCenter}}  </h6> </a> </router-link>
             <hr>
         </div> 
     </div>

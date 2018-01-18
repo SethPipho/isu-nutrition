@@ -3,9 +3,9 @@
         <br>
         <h3> {{diningCenterName}} </h3>
         <h5> 
-            <span @click="decrementDate()" class="date-arrow"> <<<< </span>
+             <span @click="decrementDate()" class="date-arrow"> <a> <<<< </a> </span> 
             {{dateString}} 
-            <span @click="incrementDate()" class="date-arrow"> >>>> </span>
+           <a> <span @click="incrementDate()" class="date-arrow"> >>>> </span> </a>
         </h5>
 
         <select v-model="selectedMeal" class="form-control">
