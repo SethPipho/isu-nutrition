@@ -23,4 +23,9 @@ export default {
      font-size: 1.2em;
   }
 
+  hr{
+    margin-top: 10px;
+    margin-bottom:10px;
+  }
+
 </style>
