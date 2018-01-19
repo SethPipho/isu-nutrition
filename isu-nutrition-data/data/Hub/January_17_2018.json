@@ -516,6 +516,14 @@
                 "servingSize": " 1 Wrap (386g)"
             },
             {
+                "calories": "578",
+                "carbs": " 32 Gram",
+                "fat": " 45 Gram",
+                "name": "Garden Salad",
+                "protein": " 14 Gram",
+                "servingSize": " 1 Salad (290g)"
+            },
+            {
                 "calories": "559",
                 "carbs": " 44 Gram",
                 "fat": " 28 Gram",
@@ -530,14 +538,6 @@
                 "name": "Mediterranean Orzo Salad",
                 "protein": " 15 Gram",
                 "servingSize": " #6 Scoop (5.5 oz) (186g)"
-            },
-            {
-                "calories": "506",
-                "carbs": " 29 Gram",
-                "fat": " 39 Gram",
-                "name": "Garden Salad",
-                "protein": " 14 Gram",
-                "servingSize": " 1 Salad (290g)"
             },
             {
                 "calories": "504",
@@ -1178,6 +1178,14 @@
                 "servingSize": " 1 Wrap (386g)"
             },
             {
+                "calories": "578",
+                "carbs": " 32 Gram",
+                "fat": " 45 Gram",
+                "name": "Garden Salad",
+                "protein": " 14 Gram",
+                "servingSize": " 1 Salad (290g)"
+            },
+            {
                 "calories": "559",
                 "carbs": " 44 Gram",
                 "fat": " 28 Gram",
@@ -1192,14 +1200,6 @@
                 "name": "Mediterranean Orzo Salad",
                 "protein": " 15 Gram",
                 "servingSize": " #6 Scoop (5.5 oz) (186g)"
-            },
-            {
-                "calories": "506",
-                "carbs": " 29 Gram",
-                "fat": " 39 Gram",
-                "name": "Garden Salad",
-                "protein": " 14 Gram",
-                "servingSize": " 1 Salad (290g)"
             },
             {
                 "calories": "504",
@@ -1248,6 +1248,14 @@
                 "name": "Chicken Cheddar Croissant",
                 "protein": " 22 Gram",
                 "servingSize": " 1 Sandwich (143g)"
+            },
+            {
+                "calories": "347",
+                "carbs": " 12 Gram",
+                "fat": " 24 Gram",
+                "name": "Chicken Tikka Masala",
+                "protein": " 18 Gram",
+                "servingSize": " #6 Scoop (2/3 cup) (241g)"
             },
             {
                 "calories": "324",
@@ -1360,6 +1368,14 @@
                 "name": "Vegetables with Ranch Dressing",
                 "protein": " 3 Gram",
                 "servingSize": " 1 Container (183g)"
+            },
+            {
+                "calories": "190",
+                "carbs": " 43 Gram",
+                "fat": " 0 Gram",
+                "name": "Steamed Basmati Rice",
+                "protein": " 4 Gram",
+                "servingSize": " #6 Scoop (2/3 cup) (160g)"
             },
             {
                 "calories": "188",

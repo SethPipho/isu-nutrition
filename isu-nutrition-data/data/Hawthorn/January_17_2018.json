@@ -634,6 +634,14 @@
                 "servingSize": " 1 Wrap (386g)"
             },
             {
+                "calories": "578",
+                "carbs": " 32 Gram",
+                "fat": " 45 Gram",
+                "name": "Garden Salad",
+                "protein": " 14 Gram",
+                "servingSize": " 1 Salad (290g)"
+            },
+            {
                 "calories": "559",
                 "carbs": " 44 Gram",
                 "fat": " 28 Gram",
@@ -648,14 +656,6 @@
                 "name": "Mediterranean Orzo Salad",
                 "protein": " 15 Gram",
                 "servingSize": " #6 Scoop (5.5 oz) (186g)"
-            },
-            {
-                "calories": "506",
-                "carbs": " 29 Gram",
-                "fat": " 39 Gram",
-                "name": "Garden Salad",
-                "protein": " 14 Gram",
-                "servingSize": " 1 Salad (290g)"
             },
             {
                 "calories": "504",

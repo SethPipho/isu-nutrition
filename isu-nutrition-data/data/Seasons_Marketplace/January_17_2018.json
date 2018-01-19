@@ -1166,6 +1166,22 @@
                 "servingSize": " 1/2 Cup (113g)"
             },
             {
+                "calories": "167",
+                "carbs": " 24 Gram",
+                "fat": " 7 Gram",
+                "name": "Homemade Butterscotch Cookie",
+                "protein": " 2 Gram",
+                "servingSize": " #30 Scoop (40g)"
+            },
+            {
+                "calories": "148",
+                "carbs": " 25 Gram",
+                "fat": " 7 Gram",
+                "name": "Homemade White Choc Chip Cookie",
+                "protein": " 2 Gram",
+                "servingSize": " #30 Scoop (40g)"
+            },
+            {
                 "calories": "132",
                 "carbs": " 19 Gram",
                 "fat": " 8 Gram",
@@ -1827,6 +1843,14 @@
     },
     "Salad Bar": {
         "Bushel Basket": [
+            {
+                "calories": "252",
+                "carbs": " 26 Gram",
+                "fat": " 13 Gram",
+                "name": "Macaroni And Ham Salad",
+                "protein": " 9 Gram",
+                "servingSize": " 1/2 Cup (114g)"
+            },
             {
                 "calories": "138",
                 "carbs": " 0 Gram",
