@@ -12,13 +12,16 @@
             <option value="all">All </option>
             <option  v-for="(mealData,mealName) in menu" :value="mealName">{{mealName}}</option> 
         </select>
-        <br>
+
+        <input type="checkbox" id="checkbox" v-model="filterByCalories">
+         Hide foods <100 calories
+        <br><br>
         
         <div  v-for="(stationData, stationName) in menu[selectedMeal]">
             <h5> {{ stationName }} </h5>
             <table class="table">
                 <tbody>
-                    <tr  v-for="food in stationData">
+                    <tr  v-for="food in stationData" v-if="filterFood(food)" >
                         <td> <b> {{food.name}} </b> <br> ({{food.servingSize}})</td>
                         <td class='macros'>
                         <span> <b> {{food.calories}} </b> </span>
@@ -43,7 +46,8 @@
                menu: {},
                selectedMeal:'',
                date: new Date(),
-               dateString: ''
+               dateString: '',
+               filterByCalories:true
             }
         },
         computed: {
@@ -60,6 +64,12 @@
             decrementDate() {
                 this.date.setDate(this.date.getDate() - 1)
                 this.update()
+            },
+            filterFood(food){
+                if (food.calories < 100 && this.filterByCalories){
+                    return false
+                }
+                return true
             },
 
             update() {
