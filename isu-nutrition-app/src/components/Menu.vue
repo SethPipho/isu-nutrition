@@ -85,7 +85,9 @@
                 axios.get(url)
                     .then(respone => {
                         this.menu = respone.data
-                        this.selectedMeal = Object.keys(this.menu)[0]
+                        if (Object.keys(this.menu).indexOf(this.selectedMeal) == -1){
+                            this.selectedMeal = Object.keys(this.menu)[0]
+                        }
                     })
                 
             }
