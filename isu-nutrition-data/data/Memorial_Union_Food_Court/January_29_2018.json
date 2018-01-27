@@ -94,44 +94,44 @@
     "Lunch": {
         "The Dish": [
             {
-                "calories": "404",
-                "carbs": " 42 Gram",
-                "fat": " 16 Gram",
-                "name": "Chicken Bacon Wild Rice Soup Retail",
-                "protein": " 23 Gram",
-                "servingSize": " 12 oz Ladle (495g)"
+                "calories": "515",
+                "carbs": " 52 Gram",
+                "fat": " 26 Gram",
+                "name": "Potato Cheese Soup",
+                "protein": " 22 Gram",
+                "servingSize": " 12 oz Ladle (476g)"
             },
             {
-                "calories": "290",
-                "carbs": " 13 Gram",
-                "fat": " 12 Gram",
-                "name": "Crispy Chicken Parmesan",
-                "protein": " 33 Gram",
-                "servingSize": " 1 Breast (235g)"
+                "calories": "421",
+                "carbs": " 27 Gram",
+                "fat": " 29 Gram",
+                "name": "Popcorn Shrimp",
+                "protein": " 15 Gram",
+                "servingSize": " 5 oz (167g)"
             },
             {
-                "calories": "217",
-                "carbs": " 28 Gram",
-                "fat": " 9 Gram",
-                "name": "Herbed Fettuccine",
-                "protein": " 6 Gram",
-                "servingSize": " 1 Cup (141g)"
+                "calories": "391",
+                "carbs": " 21 Gram",
+                "fat": " 26 Gram",
+                "name": "Chicken Jalapeno Casserole Retail",
+                "protein": " 19 Gram",
+                "servingSize": " #6 Scoop (2/3 cup) (193g)"
             },
             {
-                "calories": "201",
-                "carbs": " 28 Gram",
-                "fat": " 8 Gram",
-                "name": "Old Fashioned Tomato Soup",
-                "protein": " 7 Gram",
-                "servingSize": " 12 oz Ladle (352g)"
+                "calories": "218",
+                "carbs": " 22 Gram",
+                "fat": " 13 Gram",
+                "name": "Twice Baked Potato Casserole",
+                "protein": " 4 Gram",
+                "servingSize": " #8 Scoop (1/2 cup) (150g)"
             },
             {
-                "calories": "168",
-                "carbs": " 16 Gram",
-                "fat": " 5 Gram",
-                "name": "Bulgogi with Carrots",
-                "protein": " 14 Gram",
-                "servingSize": " #6 Scoop (2/3 cup) (156g)"
+                "calories": "157",
+                "carbs": " 21 Gram",
+                "fat": " 2.5 Gram",
+                "name": "Chicken Rice Soup",
+                "protein": " 11 Gram",
+                "servingSize": " 12 oz Ladle (400g)"
             },
             {
                 "calories": "137",
@@ -142,36 +142,28 @@
                 "servingSize": " 1 Bread Stick (46g)"
             },
             {
-                "calories": "100",
-                "carbs": " 22 Gram",
+                "calories": "130",
+                "carbs": " 16 Gram",
+                "fat": " 7 Gram",
+                "name": "Glazed Baby Whole Carrots",
+                "protein": " < 1 Gram",
+                "servingSize": " 1/2 Cup (103g)"
+            },
+            {
+                "calories": "27",
+                "carbs": " 6 Gram",
                 "fat": " 0 Gram",
-                "name": "Kimchee Basmati Rice",
+                "name": "California Blend",
                 "protein": " 2 Gram",
-                "servingSize": " #6 Scoop (2/3 cup) (101g)"
-            },
-            {
-                "calories": "83",
-                "carbs": " 7 Gram",
-                "fat": " 6 Gram",
-                "name": "Fresh Vegetable Medley",
-                "protein": " 2 Gram",
-                "servingSize": " 1/2 Cup (110g)"
-            },
-            {
-                "calories": "82",
-                "carbs": " 18 Gram",
-                "fat": " 1.5 Gram",
-                "name": "Whole Kernel Corn",
-                "protein": " 3 Gram",
                 "servingSize": " 1/2 Cup (85g)"
             },
             {
-                "calories": "72",
-                "carbs": " 7 Gram",
-                "fat": " 5 Gram",
-                "name": "Roasted Cauliflower",
-                "protein": " 2 Gram",
-                "servingSize": " 1/2 Cup (121g)"
+                "calories": "13",
+                "carbs": " 3 Gram",
+                "fat": " 0 Gram",
+                "name": "Shrimp Sauce",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Tablespoon (15g)"
             }
         ]
     },
@@ -480,14 +472,6 @@
         ],
         "Deli": [
             {
-                "calories": "749",
-                "carbs": " 63 Gram",
-                "fat": " 48 Gram",
-                "name": "Sesame Tofu Wrap",
-                "protein": " 18 Gram",
-                "servingSize": " 1 Wrap (389g)"
-            },
-            {
                 "calories": "605",
                 "carbs": " 46 Gram",
                 "fat": " 36 Gram",
@@ -496,36 +480,36 @@
                 "servingSize": " 1 Salad (420g)"
             },
             {
-                "calories": "592",
-                "carbs": " 54 Gram",
+                "calories": "580",
+                "carbs": " 49 Gram",
                 "fat": " 27 Gram",
-                "name": "Tequila Chicken Wrap",
-                "protein": " 29 Gram",
-                "servingSize": " 1 Wrap (386g)"
+                "name": "Hometown Beef Wrap",
+                "protein": " 30 Gram",
+                "servingSize": " Wrap (341g)"
             },
             {
-                "calories": "559",
-                "carbs": " 44 Gram",
-                "fat": " 28 Gram",
-                "name": "Turkey Havarti Ranch Sandwich",
-                "protein": " 28 Gram",
-                "servingSize": " 1 Sandwich (285g)"
-            },
-            {
-                "calories": "509",
-                "carbs": " 82 Gram",
-                "fat": " 15 Gram",
-                "name": "Mediterranean Orzo Salad",
-                "protein": " 15 Gram",
-                "servingSize": " #6 Scoop (5.5 oz) (186g)"
-            },
-            {
-                "calories": "504",
+                "calories": "520",
                 "carbs": " 48 Gram",
-                "fat": " 7 Gram",
-                "name": "Italian Sub Bun",
-                "protein": " 10 Gram",
-                "servingSize": " 1/2 Bun (137g)"
+                "fat": " 8 Gram",
+                "name": "Parmesan Oregano Sub Bun",
+                "protein": " 12 Gram",
+                "servingSize": " 1/2 Bun (140g)"
+            },
+            {
+                "calories": "515",
+                "carbs": " 53 Gram",
+                "fat": " 26 Gram",
+                "name": "Potato Cheese Soup",
+                "protein": " 22 Gram",
+                "servingSize": " 12 oz Ladle (479g)"
+            },
+            {
+                "calories": "511",
+                "carbs": " 19 Gram",
+                "fat": " 40 Gram",
+                "name": "Buffalo Chicken Salad",
+                "protein": " 17 Gram",
+                "servingSize": " 1 Salad (292g)"
             },
             {
                 "calories": "502",
@@ -552,20 +536,36 @@
                 "servingSize": " 1/2 Bun (134g)"
             },
             {
-                "calories": "428",
-                "carbs": " 49 Gram",
-                "fat": " 15 Gram",
-                "name": "Ciabatta Apple Walnut Chicken",
-                "protein": " 31 Gram",
-                "servingSize": " 1 Sandwich (242g)"
+                "calories": "462",
+                "carbs": " 44 Gram",
+                "fat": " 23 Gram",
+                "name": "Smoked Turkey with Cranberry Mayo",
+                "protein": " 23 Gram",
+                "servingSize": " 1 Sandwich (232g)"
             },
             {
-                "calories": "373",
-                "carbs": " 15 Gram",
-                "fat": " 27 Gram",
-                "name": "Southwest Chicken Salad",
-                "protein": " 16 Gram",
-                "servingSize": " 1 Salad (276g)"
+                "calories": "434",
+                "carbs": " 42 Gram",
+                "fat": " 18 Gram",
+                "name": "Sicilian Ciabatta",
+                "protein": " 27 Gram",
+                "servingSize": " 1 Sandwich (202g)"
+            },
+            {
+                "calories": "394",
+                "carbs": " 52 Gram",
+                "fat": " 16 Gram",
+                "name": "Vegetarian Flatbread Sandwich",
+                "protein": " 12 Gram",
+                "servingSize": " 1 Sandwich (287g)"
+            },
+            {
+                "calories": "363",
+                "carbs": " 41 Gram",
+                "fat": " 19 Gram",
+                "name": "Sweet Pasta Salad",
+                "protein": " 6 Gram",
+                "servingSize": " #6 Scoop (5.6 oz) (187g)"
             },
             {
                 "calories": "361",
@@ -584,14 +584,6 @@
                 "servingSize": " 4 oz (113g)"
             },
             {
-                "calories": "309",
-                "carbs": " 36 Gram",
-                "fat": " 15 Gram",
-                "name": "Classic Egg Salad Sandwich on Wheat",
-                "protein": " 14 Gram",
-                "servingSize": " 1 Sandwich (175g)"
-            },
-            {
                 "calories": "306",
                 "carbs": " 46 Gram",
                 "fat": " 9 Gram",
@@ -600,12 +592,20 @@
                 "servingSize": " 12\" Shell (104g)"
             },
             {
-                "calories": "287",
-                "carbs": " 13 Gram",
-                "fat": " 16 Gram",
-                "name": "Chicken Enchilada Soup",
-                "protein": " 20 Gram",
-                "servingSize": " 12 oz Ladle (295g)"
+                "calories": "300",
+                "carbs": " 18 Gram",
+                "fat": " 24 Gram",
+                "name": "Asian Cabbage Salad",
+                "protein": " 5 Gram",
+                "servingSize": " #6 Scoop (4.3 oz) (150g)"
+            },
+            {
+                "calories": "293",
+                "carbs": " 31 Gram",
+                "fat": " 12 Gram",
+                "name": "Classic Tuna Salad Sandwich on Wheat",
+                "protein": " 19 Gram",
+                "servingSize": " 1 Sandwich (169g)"
             },
             {
                 "calories": "285",
@@ -640,14 +640,6 @@
                 "servingSize": " 1/2 Bun (134g)"
             },
             {
-                "calories": "251",
-                "carbs": " 28 Gram",
-                "fat": " 15 Gram",
-                "name": "Broccoli Supreme Salad",
-                "protein": " 5 Gram",
-                "servingSize": " #6 Scoop (4.5 oz) (156g)"
-            },
-            {
                 "calories": "241",
                 "carbs": " 10 Gram",
                 "fat": " 15 Gram",
@@ -656,12 +648,12 @@
                 "servingSize": " #8 Scoop (1/2 cup) (145g)"
             },
             {
-                "calories": "222",
-                "carbs": " 36 Gram",
-                "fat": " 7 Gram",
-                "name": "Mushroom Barley Soup",
-                "protein": " 5 Gram",
-                "servingSize": " 12 oz Ladle (524g)"
+                "calories": "237",
+                "carbs": " 44 Gram",
+                "fat": " 4 Gram",
+                "name": "Mixed Berry Parfait Yogurt",
+                "protein": " 8 Gram",
+                "servingSize": " 1 Parfait (197g)"
             },
             {
                 "calories": "203",
@@ -688,14 +680,6 @@
                 "servingSize": " 1 Container (183g)"
             },
             {
-                "calories": "188",
-                "carbs": " 37 Gram",
-                "fat": " 2 Gram",
-                "name": "Raspberry Peach Yogurt Parfait",
-                "protein": " 7 Gram",
-                "servingSize": " 1 Parfait (223g)"
-            },
-            {
                 "calories": "164",
                 "carbs": " 30 Gram",
                 "fat": " 3 Gram",
@@ -704,20 +688,20 @@
                 "servingSize": " 1 Bun (67g)"
             },
             {
-                "calories": "162",
-                "carbs": " 26 Gram",
-                "fat": " 4 Gram",
-                "name": "Small Potato Bowknot Roll",
-                "protein": " 5 Gram",
-                "servingSize": " 1 Roll (85g)"
-            },
-            {
                 "calories": "161",
                 "carbs": " 29 Gram",
                 "fat": " 2.5 Gram",
                 "name": "Kaiser Bun",
                 "protein": " 5 Gram",
                 "servingSize": " 1 Bun (67g)"
+            },
+            {
+                "calories": "157",
+                "carbs": " 20 Gram",
+                "fat": " 3 Gram",
+                "name": "Chicken Vegetable Soup",
+                "protein": " 13 Gram",
+                "servingSize": " 12 oz Ladle (464g)"
             },
             {
                 "calories": "142",
@@ -742,6 +726,14 @@
                 "name": "Sliced Hard Salami",
                 "protein": " 6 Gram",
                 "servingSize": " 8 Slices/1oz Svg (28g)"
+            },
+            {
+                "calories": "100",
+                "carbs": " 17 Gram",
+                "fat": " 2 Gram",
+                "name": "Breadsticks",
+                "protein": " 3 Gram",
+                "servingSize": " 1 Breadstick (52g)"
             },
             {
                 "calories": "97",

@@ -10,14 +10,6 @@
                 "servingSize": " Muffin (224g)"
             },
             {
-                "calories": "679",
-                "carbs": " 49 Gram",
-                "fat": " 49 Gram",
-                "name": "Individual Cherry Cheesecake",
-                "protein": " 13 Gram",
-                "servingSize": " Cheesecake (207g)"
-            },
-            {
                 "calories": "628",
                 "carbs": " 57 Gram",
                 "fat": " 41 Gram",
@@ -242,14 +234,6 @@
                 "name": "Schnecken Bran Muffin",
                 "protein": " 11 Gram",
                 "servingSize": " Muffin (224g)"
-            },
-            {
-                "calories": "679",
-                "carbs": " 49 Gram",
-                "fat": " 49 Gram",
-                "name": "Individual Cherry Cheesecake",
-                "protein": " 13 Gram",
-                "servingSize": " Cheesecake (207g)"
             },
             {
                 "calories": "628",
@@ -1282,6 +1266,14 @@
                 "servingSize": " 1 Sandwich (143g)"
             },
             {
+                "calories": "347",
+                "carbs": " 12 Gram",
+                "fat": " 24 Gram",
+                "name": "Chicken Tikka Masala",
+                "protein": " 18 Gram",
+                "servingSize": " #6 Scoop (2/3 cup) (241g)"
+            },
+            {
                 "calories": "324",
                 "carbs": " 20 Gram",
                 "fat": " 24 Gram",
@@ -1432,14 +1424,6 @@
                 "name": "Kaiser Bun",
                 "protein": " 5 Gram",
                 "servingSize": " 1 Bun (67g)"
-            },
-            {
-                "calories": "150",
-                "carbs": " 15 Gram",
-                "fat": " 4.5 Gram",
-                "name": "Garam Masalas Chicken Curry",
-                "protein": " 13 Gram",
-                "servingSize": " #6 Scoop (2/3 cup) (203g)"
             },
             {
                 "calories": "142",

@@ -10,14 +10,6 @@
                 "servingSize": " Muffin (224g)"
             },
             {
-                "calories": "679",
-                "carbs": " 49 Gram",
-                "fat": " 49 Gram",
-                "name": "Individual Cherry Cheesecake",
-                "protein": " 13 Gram",
-                "servingSize": " Cheesecake (207g)"
-            },
-            {
                 "calories": "628",
                 "carbs": " 57 Gram",
                 "fat": " 41 Gram",
@@ -238,14 +230,6 @@
     "Daily Menu": {
         "Westside Market Deli and Bakery": [
             {
-                "calories": "504",
-                "carbs": " 48 Gram",
-                "fat": " 7 Gram",
-                "name": "Italian Sub Bun",
-                "protein": " 10 Gram",
-                "servingSize": " 1/2 Bun (137g)"
-            },
-            {
                 "calories": "477",
                 "carbs": " 48 Gram",
                 "fat": " 4 Gram",
@@ -276,6 +260,14 @@
                 "name": "Pc Chips Cheese Curls 64 Ct",
                 "protein": " 4 Gram",
                 "servingSize": " 2 oz Bag (57g)"
+            },
+            {
+                "calories": "298",
+                "carbs": " 50 Gram",
+                "fat": " 7 Gram",
+                "name": "Oatmeal Wheat Sub Bun",
+                "protein": " 12 Gram",
+                "servingSize": " 1/2 Bun (140g)"
             },
             {
                 "calories": "259",

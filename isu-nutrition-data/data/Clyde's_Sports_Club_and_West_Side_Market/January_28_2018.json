@@ -2,6 +2,14 @@
     "Bakery Menu": {
         "Westside Market Deli and Bakery": [
             {
+                "calories": "764",
+                "carbs": " 60 Gram",
+                "fat": " 54 Gram",
+                "name": "Individual Cookies & Cream Cheesecake",
+                "protein": " 11 Gram",
+                "servingSize": " Cheesecake (196g)"
+            },
+            {
                 "calories": "693",
                 "carbs": " 126 Gram",
                 "fat": " 21 Gram",
@@ -237,14 +245,6 @@
     },
     "Daily Menu": {
         "Westside Market Deli and Bakery": [
-            {
-                "calories": "504",
-                "carbs": " 48 Gram",
-                "fat": " 7 Gram",
-                "name": "Italian Sub Bun",
-                "protein": " 10 Gram",
-                "servingSize": " 1/2 Bun (137g)"
-            },
             {
                 "calories": "477",
                 "carbs": " 48 Gram",
@@ -636,82 +636,6 @@
                 "name": "Banana Pepper Pickles",
                 "protein": " 0 Gram",
                 "servingSize": " 1 Pepper (20g)"
-            }
-        ]
-    },
-    "daily": {
-        "Clyde's Fresh Express": [
-            {
-                "calories": "720",
-                "carbs": " 43 Gram",
-                "fat": " 46 Gram",
-                "name": "Buffalo Chicken Sandwich",
-                "protein": " 35 Gram",
-                "servingSize": " 1 Sandwich (257g)"
-            },
-            {
-                "calories": "674",
-                "carbs": " 72 Gram",
-                "fat": " 27 Gram",
-                "name": "Spiced Fried Chicken Torta w Mayo & Slaw",
-                "protein": " 36 Gram",
-                "servingSize": " 1 Sandwich (272g)"
-            },
-            {
-                "calories": "617",
-                "carbs": " 59 Gram",
-                "fat": " 31 Gram",
-                "name": "Detroit Style Pepperoni Pizza",
-                "protein": " 25 Gram",
-                "servingSize": " 1 Slice (218g)"
-            },
-            {
-                "calories": "558",
-                "carbs": " 59 Gram",
-                "fat": " 26 Gram",
-                "name": "Detroit Style Cheese Pizza",
-                "protein": " 23 Gram",
-                "servingSize": " 1 Slice (206g)"
-            },
-            {
-                "calories": "512",
-                "carbs": " 14 Gram",
-                "fat": " 47 Gram",
-                "name": "Tomato Basil Bisque",
-                "protein": " 2 Gram",
-                "servingSize": " 12 oz Ladle (319g)"
-            },
-            {
-                "calories": "332",
-                "carbs": " 49 Gram",
-                "fat": " 15 Gram",
-                "name": "Homemade Chocolate Chip Cookie",
-                "protein": " 4 Gram",
-                "servingSize": " 2 Cookies (78g)"
-            },
-            {
-                "calories": "278",
-                "carbs": " 27 Gram",
-                "fat": " 18 Gram",
-                "name": "Cris Cut French Fries",
-                "protein": " 3 Gram",
-                "servingSize": " 2.5 oz Portion (77g)"
-            },
-            {
-                "calories": "249",
-                "carbs": " 48 Gram",
-                "fat": " 2 Gram",
-                "name": "French Baguette",
-                "protein": " 10 Gram",
-                "servingSize": " 4 slices (113g)"
-            },
-            {
-                "calories": "215",
-                "carbs": " 2 Gram",
-                "fat": " 23 Gram",
-                "name": "Buttermilk Ranch Dressing",
-                "protein": " 1 Gram",
-                "servingSize": " 2 oz portion cup (60g)"
             }
         ]
     }

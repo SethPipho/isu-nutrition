@@ -42,6 +42,14 @@
                 "servingSize": " Bagel (192g)"
             },
             {
+                "calories": "539",
+                "carbs": " 74 Gram",
+                "fat": " 25 Gram",
+                "name": "Individual Blueberry Almond Coffeecake",
+                "protein": " 7 Gram",
+                "servingSize": " Ind Coffeecake (163g)"
+            },
+            {
                 "calories": "505",
                 "carbs": " 72 Gram",
                 "fat": " 19 Gram",
@@ -658,14 +666,6 @@
                 "servingSize": " 1 Wrap (386g)"
             },
             {
-                "calories": "578",
-                "carbs": " 32 Gram",
-                "fat": " 45 Gram",
-                "name": "Garden Salad",
-                "protein": " 14 Gram",
-                "servingSize": " 1 Salad (290g)"
-            },
-            {
                 "calories": "559",
                 "carbs": " 44 Gram",
                 "fat": " 28 Gram",
@@ -690,12 +690,20 @@
                 "servingSize": " 1/2 Bun (137g)"
             },
             {
-                "calories": "477",
+                "calories": "502",
+                "carbs": " 29 Gram",
+                "fat": " 38 Gram",
+                "name": "Garden Salad",
+                "protein": " 14 Gram",
+                "servingSize": " 1 Salad (290g)"
+            },
+            {
+                "calories": "485",
                 "carbs": " 32 Gram",
                 "fat": " 29 Gram",
                 "name": "Protein Pack Chicken/Cheese/Protein Bite",
-                "protein": " 26 Gram",
-                "servingSize": " 1 Container (198g)"
+                "protein": " 28 Gram",
+                "servingSize": " 1 Container (196g)"
             },
             {
                 "calories": "477",
@@ -831,7 +839,7 @@
                 "fat": " 2 Gram",
                 "name": "Raspberry Peach Yogurt Parfait",
                 "protein": " 7 Gram",
-                "servingSize": " 1 Parfait Cup (223g)"
+                "servingSize": " 1 Parfait (223g)"
             },
             {
                 "calories": "164",

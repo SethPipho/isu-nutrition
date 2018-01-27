@@ -2,20 +2,20 @@
     "Bakery Menu": {
         "Westside Market Deli and Bakery": [
             {
+                "calories": "764",
+                "carbs": " 60 Gram",
+                "fat": " 54 Gram",
+                "name": "Individual Cookies & Cream Cheesecake",
+                "protein": " 11 Gram",
+                "servingSize": " Cheesecake (196g)"
+            },
+            {
                 "calories": "693",
                 "carbs": " 126 Gram",
                 "fat": " 21 Gram",
                 "name": "Schnecken Bran Muffin",
                 "protein": " 11 Gram",
                 "servingSize": " Muffin (224g)"
-            },
-            {
-                "calories": "679",
-                "carbs": " 49 Gram",
-                "fat": " 49 Gram",
-                "name": "Individual Cherry Cheesecake",
-                "protein": " 13 Gram",
-                "servingSize": " Cheesecake (207g)"
             },
             {
                 "calories": "628",
@@ -238,12 +238,12 @@
     "Daily Menu": {
         "Westside Market Deli and Bakery": [
             {
-                "calories": "504",
+                "calories": "515",
                 "carbs": " 48 Gram",
-                "fat": " 7 Gram",
-                "name": "Italian Sub Bun",
+                "fat": " 8 Gram",
+                "name": "Roasted Garlic Sub Bun",
                 "protein": " 10 Gram",
-                "servingSize": " 1/2 Bun (137g)"
+                "servingSize": " 1/2 Bun (139g)"
             },
             {
                 "calories": "477",
