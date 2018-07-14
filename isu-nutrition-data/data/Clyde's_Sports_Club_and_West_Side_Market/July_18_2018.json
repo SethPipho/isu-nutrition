@@ -1,0 +1,602 @@
+{
+    "Bakery Menu": {
+        "Westside Market Deli and Bakery": [
+            {
+                "calories": "748",
+                "carbs": " 81 Gram",
+                "fat": " 42 Gram",
+                "name": "Homemade Lemon Poppy Seed Scone",
+                "protein": " 10 Gram",
+                "servingSize": " Scone (198g)"
+            },
+            {
+                "calories": "711",
+                "carbs": " 89 Gram",
+                "fat": " 42 Gram",
+                "name": "Double Chocolate Chip Muffin",
+                "protein": " 8 Gram",
+                "servingSize": " Muffin (179g)"
+            },
+            {
+                "calories": "601",
+                "carbs": " 122 Gram",
+                "fat": " 21 Gram",
+                "name": "Schnecken Bran Muffin",
+                "protein": " 12 Gram",
+                "servingSize": " Muffin (224g)"
+            },
+            {
+                "calories": "581",
+                "carbs": " 71 Gram",
+                "fat": " 30 Gram",
+                "name": "Salted Nutella Butter Bar",
+                "protein": " 6 Gram",
+                "servingSize": " 3x4 Cut (116g)"
+            },
+            {
+                "calories": "581",
+                "carbs": " 71 Gram",
+                "fat": " 30 Gram",
+                "name": "Salted Nutella Butter Bar",
+                "protein": " 6 Gram",
+                "servingSize": " 6x4 Retail (116g)"
+            },
+            {
+                "calories": "569",
+                "carbs": " 52 Gram",
+                "fat": " 34 Gram",
+                "name": "Bear Claw",
+                "protein": " 12 Gram",
+                "servingSize": " Bear Claw (151g)"
+            },
+            {
+                "calories": "503",
+                "carbs": " 72 Gram",
+                "fat": " 22 Gram",
+                "name": "Individual Cinnamon Streusel Coffeecake",
+                "protein": " 5 Gram",
+                "servingSize": " Ind Coffeecake (142g)"
+            },
+            {
+                "calories": "502",
+                "carbs": " 80 Gram",
+                "fat": " 17 Gram",
+                "name": "Blueberry Muffin",
+                "protein": " 8 Gram",
+                "servingSize": " Muffin (180g)"
+            },
+            {
+                "calories": "485",
+                "carbs": " 56 Gram",
+                "fat": " 25 Gram",
+                "name": "Strawberry Cream Cheese Croissant",
+                "protein": " 8 Gram",
+                "servingSize": " Croissant (156g)"
+            },
+            {
+                "calories": "433",
+                "carbs": " 69 Gram",
+                "fat": " 6 Gram",
+                "name": "Homemade Parmesan Herb Bagel",
+                "protein": " 20 Gram",
+                "servingSize": " Bagel (167g)"
+            },
+            {
+                "calories": "431",
+                "carbs": " 75 Gram",
+                "fat": " 15 Gram",
+                "name": "Chocolate Chunk Brownie",
+                "protein": " 5 Gram",
+                "servingSize": " 3x4 Cut (114g)"
+            },
+            {
+                "calories": "431",
+                "carbs": " 75 Gram",
+                "fat": " 15 Gram",
+                "name": "Chocolate Chunk Brownie",
+                "protein": " 5 Gram",
+                "servingSize": " 6x4 Retail (114g)"
+            },
+            {
+                "calories": "414",
+                "carbs": " 46 Gram",
+                "fat": " 22 Gram",
+                "name": "Chocolate Croissant",
+                "protein": " 7 Gram",
+                "servingSize": " Croissant (114g)"
+            },
+            {
+                "calories": "392",
+                "carbs": " 76 Gram",
+                "fat": " 8 Gram",
+                "name": "Lowfat Raspberry Chocolate Chip Muffin",
+                "protein": " 5 Gram",
+                "servingSize": " Muffin (166g)"
+            },
+            {
+                "calories": "376",
+                "carbs": " 55 Gram",
+                "fat": " 16 Gram",
+                "name": "Bar Triple Berry",
+                "protein": " 4 Gram",
+                "servingSize": " 3x4 Cut (110g)"
+            },
+            {
+                "calories": "376",
+                "carbs": " 55 Gram",
+                "fat": " 16 Gram",
+                "name": "Triple Berry Bar",
+                "protein": " 4 Gram",
+                "servingSize": " 6x4 Retail (110g)"
+            },
+            {
+                "calories": "366",
+                "carbs": " 74 Gram",
+                "fat": " 0 Gram",
+                "name": "Homemade Blueberry Bagel",
+                "protein": " 12 Gram",
+                "servingSize": " Bagel (147g)"
+            },
+            {
+                "calories": "359",
+                "carbs": " 71 Gram",
+                "fat": " 1 Gram",
+                "name": "Homemade Everything Bagel",
+                "protein": " 13 Gram",
+                "servingSize": " Bagel (151g)"
+            },
+            {
+                "calories": "352",
+                "carbs": " 70 Gram",
+                "fat": " 0 Gram",
+                "name": "Homemade Plain Bagel",
+                "protein": " 12 Gram",
+                "servingSize": " Bagel (147g)"
+            },
+            {
+                "calories": "351",
+                "carbs": " 42 Gram",
+                "fat": " 19 Gram",
+                "name": "Homemade Reese's Peanut Butter Cookie",
+                "protein": " 7 Gram",
+                "servingSize": " Cookie (78g)"
+            },
+            {
+                "calories": "325",
+                "carbs": " 44 Gram",
+                "fat": " 16 Gram",
+                "name": "Homemade Chocolate Chunk Cookie",
+                "protein": " 4 Gram",
+                "servingSize": " Cookie (75g)"
+            },
+            {
+                "calories": "279",
+                "carbs": " 29 Gram",
+                "fat": " 15 Gram",
+                "name": "Plain Croissant",
+                "protein": " 6 Gram",
+                "servingSize": " 1 Croissant (81g)"
+            },
+            {
+                "calories": "266",
+                "carbs": " 38 Gram",
+                "fat": " 11 Gram",
+                "name": "Homemade Coconut Oatmeal Cookie",
+                "protein": " 3 Gram",
+                "servingSize": " Cookie (72g)"
+            },
+            {
+                "calories": "255",
+                "carbs": " 41 Gram",
+                "fat": " 7 Gram",
+                "name": "Triple Berry Danish",
+                "protein": " 6 Gram",
+                "servingSize": " Danish (76g)"
+            }
+        ]
+    },
+    "Daily Menu": {
+        "Westside Market Deli and Bakery": [
+            {
+                "calories": "348",
+                "carbs": " 28 Gram",
+                "fat": " 14 Gram",
+                "name": "Chuckwagon Chili",
+                "protein": " 28 Gram",
+                "servingSize": " 12 oz Ladle (345g)"
+            },
+            {
+                "calories": "324",
+                "carbs": " 30 Gram",
+                "fat": " 20 Gram",
+                "name": "Pc Chips Cheese Curls 64 Ct",
+                "protein": " 4 Gram",
+                "servingSize": " 2 oz Bag (57g)"
+            },
+            {
+                "calories": "286",
+                "carbs": " 48 Gram",
+                "fat": " 6 Gram",
+                "name": "Italian Sub Bun",
+                "protein": " 10 Gram",
+                "servingSize": " 1/2 Bun (137g)"
+            },
+            {
+                "calories": "283",
+                "carbs": " 16 Gram",
+                "fat": " 24 Gram",
+                "name": "Kronos Red Pepper Hummus",
+                "protein": " 4 Gram",
+                "servingSize": " 4 oz (113g)"
+            },
+            {
+                "calories": "259",
+                "carbs": " 48 Gram",
+                "fat": " 4 Gram",
+                "name": "Whole Grain Sub Bun",
+                "protein": " 12 Gram",
+                "servingSize": " 1/2 Bun (134g)"
+            },
+            {
+                "calories": "259",
+                "carbs": " 48 Gram",
+                "fat": " 3 Gram",
+                "name": "White Sub Bun",
+                "protein": " 10 Gram",
+                "servingSize": " 1/2 Bun (134g)"
+            },
+            {
+                "calories": "257",
+                "carbs": " 31 Gram",
+                "fat": " 14 Gram",
+                "name": "PC Chips Sunchip Garden Salsa1.75 oz Bag",
+                "protein": " 3 Gram",
+                "servingSize": " 1.75 oz Bag (50g)"
+            },
+            {
+                "calories": "255",
+                "carbs": " 31 Gram",
+                "fat": " 13 Gram",
+                "name": "Nacho Chips",
+                "protein": " 4 Gram",
+                "servingSize": " 1.75 oz Bag (50g)"
+            },
+            {
+                "calories": "230",
+                "carbs": " 22 Gram",
+                "fat": " 15 Gram",
+                "name": "Potato Chips",
+                "protein": " 3 Gram",
+                "servingSize": " 1.5 oz Bag (43g)"
+            },
+            {
+                "calories": "223",
+                "carbs": " 22 Gram",
+                "fat": " 14 Gram",
+                "name": "Salt & Vinegar Kettle Chips",
+                "protein": " 3 Gram",
+                "servingSize": " 1.375 oz Bag (39g)"
+            },
+            {
+                "calories": "221",
+                "carbs": " 27 Gram",
+                "fat": " 11 Gram",
+                "name": "Cheddar Sunchips",
+                "protein": " 3 Gram",
+                "servingSize": " 1.5 oz (43g)"
+            },
+            {
+                "calories": "215",
+                "carbs": " 45 Gram",
+                "fat": " 1.5 Gram",
+                "name": "Pretzels",
+                "protein": " 6 Gram",
+                "servingSize": " 1 Pkg (57g)"
+            },
+            {
+                "calories": "211",
+                "carbs": " 20 Gram",
+                "fat": " 14 Gram",
+                "name": "Jalapeno Kettle Chips",
+                "protein": " 3 Gram",
+                "servingSize": " 1 Bag (39g)"
+            },
+            {
+                "calories": "210",
+                "carbs": " 23 Gram",
+                "fat": " 12 Gram",
+                "name": "Barbeque Kettle Potato Chips",
+                "protein": " 3 Gram",
+                "servingSize": " 1 Bag (39g)"
+            },
+            {
+                "calories": "202",
+                "carbs": " 18 Gram",
+                "fat": " 13 Gram",
+                "name": "PC Chip Ruffles Cheddar S Crm Baked",
+                "protein": " 2 Gram",
+                "servingSize": " 1 bag (35g)"
+            },
+            {
+                "calories": "202",
+                "carbs": " 37 Gram",
+                "fat": " 3.5 Gram",
+                "name": "Coney Bun",
+                "protein": " 6 Gram",
+                "servingSize": " 1 Bun (82g)"
+            },
+            {
+                "calories": "199",
+                "carbs": " 30 Gram",
+                "fat": " 8 Gram",
+                "name": "Baked Potato Chip",
+                "protein": " 2 Gram",
+                "servingSize": " 1.5 oz Pkg (43g)"
+            },
+            {
+                "calories": "160",
+                "carbs": " 29 Gram",
+                "fat": " 1.5 Gram",
+                "name": "Pc Assorted 1% Milkfat Yogurt",
+                "protein": " 8 Gram",
+                "servingSize": " 6 oz Carton (170g)"
+            },
+            {
+                "calories": "152",
+                "carbs": " 18 Gram",
+                "fat": " 8 Gram",
+                "name": "Pc Chip Dorito Cool Ranch 1.5 oz",
+                "protein": " 2 Gram",
+                "servingSize": " 1.5 oz Pkg (28g)"
+            },
+            {
+                "calories": "142",
+                "carbs": " 0 Gram",
+                "fat": " 13 Gram",
+                "name": "Sliced Pepperoni",
+                "protein": " 5 Gram",
+                "servingSize": " 8 Slices/1 oz Svg (28g)"
+            },
+            {
+                "calories": "111",
+                "carbs": " 1 Gram",
+                "fat": " 9 Gram",
+                "name": "PC Cheese Sticks Colby",
+                "protein": " 7 Gram",
+                "servingSize": " Stick (28g)"
+            },
+            {
+                "calories": "111",
+                "carbs": " 20 Gram",
+                "fat": " 1.5 Gram",
+                "name": "12 Grain Dakota Bread",
+                "protein": " 3 Gram",
+                "servingSize": " 18 Sl/Loaf (38g)"
+            },
+            {
+                "calories": "110",
+                "carbs": " 29 Gram",
+                "fat": " 0 Gram",
+                "name": "Pc Raisins",
+                "protein": " 1 Gram",
+                "servingSize": " 1 Box (37g)"
+            },
+            {
+                "calories": "107",
+                "carbs": " 28 Gram",
+                "fat": " 0 Gram",
+                "name": "Gala Apple",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Apple (206g)"
+            },
+            {
+                "calories": "106",
+                "carbs": " 0 Gram",
+                "fat": " 9 Gram",
+                "name": "Sliced Hard Salami",
+                "protein": " 6 Gram",
+                "servingSize": " 8 Slices/1oz Svg (28g)"
+            },
+            {
+                "calories": "91",
+                "carbs": " 1 Gram",
+                "fat": " 7 Gram",
+                "name": "Sliced Cheddar Cheese",
+                "protein": " 5 Gram",
+                "servingSize": " .75 oz Slice (21g)"
+            },
+            {
+                "calories": "89",
+                "carbs": " 17 Gram",
+                "fat": " 1.5 Gram",
+                "name": "100% Whole Wheat Bread",
+                "protein": " 4 Gram",
+                "servingSize": " 18 Sl/Loaf (38g)"
+            },
+            {
+                "calories": "87",
+                "carbs": " 22 Gram",
+                "fat": " 0 Gram",
+                "name": "Banana",
+                "protein": " 1 Gram",
+                "servingSize": " 1 Banana (98g)"
+            },
+            {
+                "calories": "86",
+                "carbs": " 23 Gram",
+                "fat": " 0 Gram",
+                "name": "Granny Smith Apple",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Apple (165g)"
+            },
+            {
+                "calories": "85",
+                "carbs": " < 1 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced Provolone Cheese",
+                "protein": " 6 Gram",
+                "servingSize": " .75 oz Slice (21g)"
+            },
+            {
+                "calories": "83",
+                "carbs": " 0 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced Colby Jack Cheese",
+                "protein": " 5 Gram",
+                "servingSize": " .75 oz Slice (21g)"
+            },
+            {
+                "calories": "81",
+                "carbs": " 0 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced Natural Swiss Cheese",
+                "protein": " 6 Gram",
+                "servingSize": " .75 oz Slice (21g)"
+            },
+            {
+                "calories": "81",
+                "carbs": " 0 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced Pepper Jack Cheese",
+                "protein": " 5 Gram",
+                "servingSize": " .75 oz Slice (21g)"
+            },
+            {
+                "calories": "81",
+                "carbs": " 1 Gram",
+                "fat": " 6 Gram",
+                "name": "PC Cheese Sticks Mozzarella",
+                "protein": " 7 Gram",
+                "servingSize": " Stick (28g)"
+            },
+            {
+                "calories": "80",
+                "carbs": " 20 Gram",
+                "fat": " 0 Gram",
+                "name": "Orange",
+                "protein": " 2 Gram",
+                "servingSize": " 1 Orange (170g)"
+            },
+            {
+                "calories": "77",
+                "carbs": " 13 Gram",
+                "fat": " 0 Gram",
+                "name": "Pc Assorted Yo-Lite Yogurt",
+                "protein": " 6 Gram",
+                "servingSize": " 6 Oz Carton (170g)"
+            },
+            {
+                "calories": "71",
+                "carbs": " 0 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced Bacon",
+                "protein": " 4 Gram",
+                "servingSize": " 2 Strips (14g)"
+            },
+            {
+                "calories": "70",
+                "carbs": " 1 Gram",
+                "fat": " 6 Gram",
+                "name": "Sliced American Cheese",
+                "protein": " 4 Gram",
+                "servingSize": " .667 oz Slice (19g)"
+            },
+            {
+                "calories": "70",
+                "carbs": " 17 Gram",
+                "fat": " 0 Gram",
+                "name": "Applesauce Granny Smith",
+                "protein": " 0 Gram",
+                "servingSize": " 4 oz Cup (113g)"
+            },
+            {
+                "calories": "70",
+                "carbs": " 17 Gram",
+                "fat": " 0 Gram",
+                "name": "Applesauce Raspberry Acai",
+                "protein": " 0 Gram",
+                "servingSize": " 4 oz Cup (113g)"
+            },
+            {
+                "calories": "65",
+                "carbs": " 14 Gram",
+                "fat": " 1 Gram",
+                "name": "White Sandwich Bread",
+                "protein": " 2 Gram",
+                "servingSize": " 25 Sl/Loaf (27g)"
+            },
+            {
+                "calories": "30",
+                "carbs": " 7 Gram",
+                "fat": " 0 Gram",
+                "name": "PC Carrots",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Bag (85g)"
+            },
+            {
+                "calories": "29",
+                "carbs": " 0 Gram",
+                "fat": " 2.5 Gram",
+                "name": "Shredded Cheddar Cheese",
+                "protein": " 2 Gram",
+                "servingSize": " 1 Tablespoon (7g)"
+            },
+            {
+                "calories": "14",
+                "carbs": " 3 Gram",
+                "fat": " 0 Gram",
+                "name": "Sweet Pickle Relish",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Tablespoon (14g)"
+            },
+            {
+                "calories": "12",
+                "carbs": " 0 Gram",
+                "fat": " 1 Gram",
+                "name": "Sliced Black Olives",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Tablespoon (8g)"
+            },
+            {
+                "calories": "4",
+                "carbs": " < 1 Gram",
+                "fat": " 0 Gram",
+                "name": "Shredded Lettuce",
+                "protein": " 0 Gram",
+                "servingSize": " 1/2 Cup (28g)"
+            },
+            {
+                "calories": "4",
+                "carbs": " < 1 Gram",
+                "fat": " 0 Gram",
+                "name": "Jalapeno Peppers",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Tablespoon (22g)"
+            },
+            {
+                "calories": "3",
+                "carbs": " 0 Gram",
+                "fat": " 0 Gram",
+                "name": "Spinach",
+                "protein": " 0 Gram",
+                "servingSize": " 1/2 Cup (14g)"
+            },
+            {
+                "calories": "0",
+                "carbs": " 0 Gram",
+                "fat": " 0 Gram",
+                "name": "Sliced Dill Pickles",
+                "protein": " 0 Gram",
+                "servingSize": " 6 slices (14g)"
+            },
+            {
+                "calories": "0",
+                "carbs": " 0 Gram",
+                "fat": " 0 Gram",
+                "name": "Banana Pepper Pickles",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Pepper (20g)"
+            }
+        ]
+    }
+}
