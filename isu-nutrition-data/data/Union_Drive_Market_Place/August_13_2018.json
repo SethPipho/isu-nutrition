@@ -1,0 +1,62 @@
+{
+    "daily": {
+        "Farmers Market": [
+            {
+                "calories": "345",
+                "carbs": " 57 Gram",
+                "fat": " 9 Gram",
+                "name": "Mediterranean Orzo Salad",
+                "protein": " 10 Gram",
+                "servingSize": " 1/2 Cup (109g)"
+            },
+            {
+                "calories": "277",
+                "carbs": " 24 Gram",
+                "fat": " 16 Gram",
+                "name": "Caesar Tortellini Salad",
+                "protein": " 9 Gram",
+                "servingSize": " 1/2 Cup (113g)"
+            },
+            {
+                "calories": "149",
+                "carbs": " 10 Gram",
+                "fat": " 10 Gram",
+                "name": "Broccoli Cheese Soup",
+                "protein": " 6 Gram",
+                "servingSize": " 4 oz Ladle (146g)"
+            },
+            {
+                "calories": "116",
+                "carbs": " 15 Gram",
+                "fat": " 2 Gram",
+                "name": "Beef Stew",
+                "protein": " 9 Gram",
+                "servingSize": " 4 oz Ladle (202g)"
+            },
+            {
+                "calories": "98",
+                "carbs": " 4 Gram",
+                "fat": " 3 Gram",
+                "name": "Cottage Cheese",
+                "protein": " 13 Gram",
+                "servingSize": " 1/2 Cup (113g)"
+            },
+            {
+                "calories": "57",
+                "carbs": " 15 Gram",
+                "fat": " 0 Gram",
+                "name": "Fresh Pineapple Chunks",
+                "protein": " < 1 Gram",
+                "servingSize": " 1/2 Cup (113g)"
+            },
+            {
+                "calories": "49",
+                "carbs": " 13 Gram",
+                "fat": " 0 Gram",
+                "name": "Green Grapes",
+                "protein": " 0 Gram",
+                "servingSize": " 1/2 Cup (71g)"
+            }
+        ]
+    }
+}

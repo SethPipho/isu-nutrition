@@ -142,8 +142,11 @@ def scrapeLabel(page):
     tag = table.find( class_='cbo_nn_LabelDetailIncomplete')
     if (tag == None):
         tag = table.find( class_='cbo_nn_SecondaryNutrient')
-
-    info['Calories'] = tag.text
+    
+    if tag == None:
+        info['Calories'] = -1
+    else:
+        info['Calories'] = tag.text
 
     
     #Get primary nutritional info
