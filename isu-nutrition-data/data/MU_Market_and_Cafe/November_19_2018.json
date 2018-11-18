@@ -34,14 +34,6 @@
                 "servingSize": " Muffin (180g)"
             },
             {
-                "calories": "602",
-                "carbs": " 120 Gram",
-                "fat": " 21 Gram",
-                "name": "Schnecken Bran Muffin",
-                "protein": " 12 Gram",
-                "servingSize": " Muffin (224g)"
-            },
-            {
                 "calories": "572",
                 "carbs": " 66 Gram",
                 "fat": " 27 Gram",
@@ -72,6 +64,14 @@
                 "name": "Strawberry Cream Cheese Croissant",
                 "protein": " 12 Gram",
                 "servingSize": " Croissant (158g)"
+            },
+            {
+                "calories": "540",
+                "carbs": " 104 Gram",
+                "fat": " 21 Gram",
+                "name": "Schnecken Bran Muffin",
+                "protein": " 11 Gram",
+                "servingSize": " Muffin (224g)"
             },
             {
                 "calories": "515",
@@ -210,12 +210,12 @@
                 "servingSize": " Cookie (77g)"
             },
             {
-                "calories": "279",
-                "carbs": " 29 Gram",
-                "fat": " 15 Gram",
+                "calories": "194",
+                "carbs": " 28 Gram",
+                "fat": " 7 Gram",
                 "name": "Plain Croissant",
                 "protein": " 6 Gram",
-                "servingSize": " 1 Croissant (81g)"
+                "servingSize": " 1 Croissant (55g)"
             },
             {
                 "calories": "189",

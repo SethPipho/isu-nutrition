@@ -34,14 +34,6 @@
                 "servingSize": " Muffin (180g)"
             },
             {
-                "calories": "602",
-                "carbs": " 120 Gram",
-                "fat": " 21 Gram",
-                "name": "Schnecken Bran Muffin",
-                "protein": " 12 Gram",
-                "servingSize": " Muffin (224g)"
-            },
-            {
                 "calories": "572",
                 "carbs": " 66 Gram",
                 "fat": " 27 Gram",
@@ -59,11 +51,27 @@
             },
             {
                 "calories": "542",
+                "carbs": " 84 Gram",
+                "fat": " 16 Gram",
+                "name": "Cinnamon Crunch Bagel",
+                "protein": " 12 Gram",
+                "servingSize": " Bagel (177g)"
+            },
+            {
+                "calories": "542",
                 "carbs": " 78 Gram",
                 "fat": " 20 Gram",
                 "name": "Strawberry Cream Cheese Croissant",
                 "protein": " 12 Gram",
                 "servingSize": " Croissant (158g)"
+            },
+            {
+                "calories": "540",
+                "carbs": " 104 Gram",
+                "fat": " 21 Gram",
+                "name": "Schnecken Bran Muffin",
+                "protein": " 11 Gram",
+                "servingSize": " Muffin (224g)"
             },
             {
                 "calories": "515",
@@ -98,6 +106,14 @@
                 "servingSize": " 6x4 Cut Retail (111g)"
             },
             {
+                "calories": "433",
+                "carbs": " 69 Gram",
+                "fat": " 6 Gram",
+                "name": "Parmesan Herb Bagel",
+                "protein": " 20 Gram",
+                "servingSize": " Bagel (167g)"
+            },
+            {
                 "calories": "418",
                 "carbs": " 38 Gram",
                 "fat": " 19 Gram",
@@ -120,6 +136,14 @@
                 "name": "Lowfat Lemon Poppy Seed Muffin",
                 "protein": " 5 Gram",
                 "servingSize": " Muffin (170g)"
+            },
+            {
+                "calories": "366",
+                "carbs": " 74 Gram",
+                "fat": " 0 Gram",
+                "name": "Blueberry Bagel",
+                "protein": " 12 Gram",
+                "servingSize": " Bagel (147g)"
             },
             {
                 "calories": "365",
@@ -146,6 +170,22 @@
                 "servingSize": " Cookie (79g)"
             },
             {
+                "calories": "359",
+                "carbs": " 71 Gram",
+                "fat": " 1 Gram",
+                "name": "Everything Bagel",
+                "protein": " 13 Gram",
+                "servingSize": " Bagel (151g)"
+            },
+            {
+                "calories": "352",
+                "carbs": " 70 Gram",
+                "fat": " 0 Gram",
+                "name": "Plain Bagel",
+                "protein": " 12 Gram",
+                "servingSize": " Bagel (147g)"
+            },
+            {
                 "calories": "325",
                 "carbs": " 44 Gram",
                 "fat": " 16 Gram",
@@ -170,12 +210,12 @@
                 "servingSize": " Cookie (77g)"
             },
             {
-                "calories": "279",
-                "carbs": " 29 Gram",
-                "fat": " 15 Gram",
+                "calories": "194",
+                "carbs": " 28 Gram",
+                "fat": " 7 Gram",
                 "name": "Plain Croissant",
                 "protein": " 6 Gram",
-                "servingSize": " 1 Croissant (81g)"
+                "servingSize": " 1 Croissant (55g)"
             },
             {
                 "calories": "189",
@@ -188,6 +228,30 @@
         ],
         "Daily": [
             {
+                "calories": "725",
+                "carbs": " 59 Gram",
+                "fat": " 48 Gram",
+                "name": "Sesame Tofu Wrap",
+                "protein": " 18 Gram",
+                "servingSize": " 1 Wrap (380g)"
+            },
+            {
+                "calories": "599",
+                "carbs": " 43 Gram",
+                "fat": " 40 Gram",
+                "name": "Hawaiian Ham Soba Noodle Salad",
+                "protein": " 18 Gram",
+                "servingSize": " 1 Salad (366g)"
+            },
+            {
+                "calories": "594",
+                "carbs": " 56 Gram",
+                "fat": " 27 Gram",
+                "name": "Tequila Chicken Wrap",
+                "protein": " 28 Gram",
+                "servingSize": " 1 Wrap (386g)"
+            },
+            {
                 "calories": "558",
                 "carbs": " 32 Gram",
                 "fat": " 44 Gram",
@@ -196,36 +260,28 @@
                 "servingSize": " 1 Salad (290g)"
             },
             {
-                "calories": "487",
-                "carbs": " 38 Gram",
-                "fat": " 28 Gram",
-                "name": "Herman Muenster on Focaccia",
-                "protein": " 23 Gram",
-                "servingSize": " 1 Sandwich (182g)"
+                "calories": "532",
+                "carbs": " 28 Gram",
+                "fat": " 36 Gram",
+                "name": "Iowa Cobb Salad with Peppercorn Ranch",
+                "protein": " 27 Gram",
+                "servingSize": " 1 Salad (355g)"
             },
             {
-                "calories": "450",
+                "calories": "500",
                 "carbs": " 43 Gram",
-                "fat": " 18 Gram",
-                "name": "Sicilian Ciabatta",
-                "protein": " 28 Gram",
-                "servingSize": " 1 Sandwich (206g)"
+                "fat": " 26 Gram",
+                "name": "Smoked Turkey with Cranberry Mayo",
+                "protein": " 25 Gram",
+                "servingSize": " 1 Sandwich (232g)"
             },
             {
-                "calories": "394",
-                "carbs": " 52 Gram",
-                "fat": " 16 Gram",
-                "name": "Vegetarian Flatbread Sandwich",
-                "protein": " 12 Gram",
-                "servingSize": " 1 Sandwich (287g)"
-            },
-            {
-                "calories": "390",
-                "carbs": " 45 Gram",
-                "fat": " 11 Gram",
-                "name": "Turkey Provolone Sandwich",
-                "protein": " 28 Gram",
-                "servingSize": " 1 Sandwich (257g)"
+                "calories": "427",
+                "carbs": " 49 Gram",
+                "fat": " 15 Gram",
+                "name": "Ciabatta Apple Walnut Chicken",
+                "protein": " 31 Gram",
+                "servingSize": " 1 Sandwich (242g)"
             },
             {
                 "calories": "361",
@@ -234,6 +290,14 @@
                 "name": "Chicken Cheddar Croissant",
                 "protein": " 22 Gram",
                 "servingSize": " 1 Sandwich (143g)"
+            },
+            {
+                "calories": "325",
+                "carbs": " 53 Gram",
+                "fat": " 8 Gram",
+                "name": "Small Potato Bowknot Roll",
+                "protein": " 10 Gram",
+                "servingSize": " 2 Rolls (170g)"
             },
             {
                 "calories": "306",
@@ -252,12 +316,28 @@
                 "servingSize": " 1 Sandwich (175g)"
             },
             {
+                "calories": "287",
+                "carbs": " 13 Gram",
+                "fat": " 16 Gram",
+                "name": "Chicken Enchilada Soup",
+                "protein": " 20 Gram",
+                "servingSize": " 12 oz Ladle (295g)"
+            },
+            {
                 "calories": "286",
-                "carbs": " 30 Gram",
+                "carbs": " 48 Gram",
+                "fat": " 6 Gram",
+                "name": "Italian Sub Bun",
+                "protein": " 10 Gram",
+                "servingSize": " 1/2 Bun (137g)"
+            },
+            {
+                "calories": "284",
+                "carbs": " 22 Gram",
                 "fat": " 18 Gram",
-                "name": "Three Grain Salad",
-                "protein": " 4 Gram",
-                "servingSize": " #6 Scoop (180g)"
+                "name": "Tortellini Salad",
+                "protein": " 8 Gram",
+                "servingSize": " #6 Scoop (4.7 oz) (162g)"
             },
             {
                 "calories": "283",
@@ -276,6 +356,14 @@
                 "servingSize": " 12\" Shell (95g)"
             },
             {
+                "calories": "271",
+                "carbs": " 34 Gram",
+                "fat": " 14 Gram",
+                "name": "Veggies and Hummus Box",
+                "protein": " 5 Gram",
+                "servingSize": " 1 Container (219g)"
+            },
+            {
                 "calories": "259",
                 "carbs": " 48 Gram",
                 "fat": " 3 Gram",
@@ -284,12 +372,28 @@
                 "servingSize": " 1/2 Bun (134g)"
             },
             {
+                "calories": "256",
+                "carbs": " 10 Gram",
+                "fat": " 15 Gram",
+                "name": "Tuna Salad Snack Pack Box",
+                "protein": " 20 Gram",
+                "servingSize": " Container (159g)"
+            },
+            {
                 "calories": "250",
                 "carbs": " 41 Gram",
                 "fat": " 6 Gram",
                 "name": "Whole Wheat Wrap",
                 "protein": " 8 Gram",
                 "servingSize": " 12\" Shell (95g)"
+            },
+            {
+                "calories": "234",
+                "carbs": " 27 Gram",
+                "fat": " 13 Gram",
+                "name": "Broccoli Supreme Salad",
+                "protein": " 5 Gram",
+                "servingSize": " #6 Scoop (4.5 oz) (156g)"
             },
             {
                 "calories": "218",
@@ -308,6 +412,14 @@
                 "servingSize": " 1/2 Bun (105g)"
             },
             {
+                "calories": "202",
+                "carbs": " 37 Gram",
+                "fat": " 3.5 Gram",
+                "name": "Coney Bun",
+                "protein": " 6 Gram",
+                "servingSize": " 1 Bun (82g)"
+            },
+            {
                 "calories": "201",
                 "carbs": " 2 Gram",
                 "fat": " 12 Gram",
@@ -322,6 +434,30 @@
                 "name": "Vegetables with Ranch Dressing",
                 "protein": " 3 Gram",
                 "servingSize": " 1 Container (183g)"
+            },
+            {
+                "calories": "188",
+                "carbs": " 37 Gram",
+                "fat": " 2 Gram",
+                "name": "Raspberry Peach Yogurt Parfait",
+                "protein": " 7 Gram",
+                "servingSize": " 1 Parfait (223g)"
+            },
+            {
+                "calories": "165",
+                "carbs": " 30 Gram",
+                "fat": " 3 Gram",
+                "name": "Whole Wheat Kaiser Bun",
+                "protein": " 5 Gram",
+                "servingSize": " 1 Bun (67g)"
+            },
+            {
+                "calories": "162",
+                "carbs": " 29 Gram",
+                "fat": " 2.5 Gram",
+                "name": "Kaiser Bun",
+                "protein": " 5 Gram",
+                "servingSize": " 1 Bun (67g)"
             },
             {
                 "calories": "142",
@@ -346,6 +482,46 @@
                 "name": "Sliced Hard Salami",
                 "protein": " 6 Gram",
                 "servingSize": " 8 Slices/1oz Svg (28g)"
+            },
+            {
+                "calories": "102",
+                "carbs": " 20 Gram",
+                "fat": " 1 Gram",
+                "name": "Wheat Bread",
+                "protein": " 4 Gram",
+                "servingSize": " 21 Sl/Loaf - Retail (44g)"
+            },
+            {
+                "calories": "98",
+                "carbs": " 1 Gram",
+                "fat": " 7 Gram",
+                "name": "Hard Cooked Eggs",
+                "protein": " 8 Gram",
+                "servingSize": " 2 Egg (91g)"
+            },
+            {
+                "calories": "97",
+                "carbs": " 21 Gram",
+                "fat": " 0 Gram",
+                "name": "Garden Vegetable Soup",
+                "protein": " 3 Gram",
+                "servingSize": " 12 oz Ladle (354g)"
+            },
+            {
+                "calories": "96",
+                "carbs": " 18 Gram",
+                "fat": " 1 Gram",
+                "name": "Sourdough French Bread",
+                "protein": " 3 Gram",
+                "servingSize": " 21 Sl/Loaf - Retail (43g)"
+            },
+            {
+                "calories": "87",
+                "carbs": " 17 Gram",
+                "fat": " 0.5 Gram",
+                "name": "Pesto French Bread",
+                "protein": " 3 Gram",
+                "servingSize": " 21 Sl/Loaf - Retail (39g)"
             },
             {
                 "calories": "87",
@@ -412,12 +588,12 @@
                 "servingSize": " 1 Orange (170g)"
             },
             {
-                "calories": "75",
+                "calories": "78",
                 "carbs": " 20 Gram",
                 "fat": " 0 Gram",
-                "name": "Fresh Pineapple Cup",
+                "name": "Red Grapes",
                 "protein": " < 1 Gram",
-                "servingSize": " 5.3 oz Portion (151g)"
+                "servingSize": " 4 oz (142g)"
             },
             {
                 "calories": "68",
@@ -428,12 +604,28 @@
                 "servingSize": " 5.6 oz Portion (159g)"
             },
             {
+                "calories": "62",
+                "carbs": " 10 Gram",
+                "fat": " 1 Gram",
+                "name": "Marble Rye Bread",
+                "protein": " 2 Gram",
+                "servingSize": " 20 Sl/Loaf (23g)"
+            },
+            {
                 "calories": "42",
                 "carbs": " 0 Gram",
                 "fat": " 1.5 Gram",
                 "name": "Ham",
                 "protein": " 6 Gram",
                 "servingSize": " 1 oz Slice (28g)"
+            },
+            {
+                "calories": "42",
+                "carbs": " < 1 Gram",
+                "fat": " 4.5 Gram",
+                "name": "Cucumber Sauce",
+                "protein": " 0 Gram",
+                "servingSize": " 1 Tablespoon (14g)"
             },
             {
                 "calories": "30",
@@ -458,6 +650,22 @@
                 "name": "Chicken Breast Bulk",
                 "protein": " 6 Gram",
                 "servingSize": " 1 oz Slice (28g)"
+            },
+            {
+                "calories": "20",
+                "carbs": " 4 Gram",
+                "fat": " 0 Gram",
+                "name": "Grape Tomatoes",
+                "protein": " 1 Gram",
+                "servingSize": " 1/2 Cup (113g)"
+            },
+            {
+                "calories": "15",
+                "carbs": " 3 Gram",
+                "fat": " 0 Gram",
+                "name": "Green Pepper Strips",
+                "protein": " < 1 Gram",
+                "servingSize": " 1/2 Cup (76g)"
             },
             {
                 "calories": "14",
@@ -500,12 +708,12 @@
                 "servingSize": " 1 Tablespoon (14g)"
             },
             {
-                "calories": "3",
+                "calories": "4",
                 "carbs": " < 1 Gram",
                 "fat": " 0 Gram",
-                "name": "Green Pepper Rings",
+                "name": "Chopped Romaine Lettuce",
                 "protein": " 0 Gram",
-                "servingSize": " 3 Rings (13g)"
+                "servingSize": " 1/2 Cup (22g)"
             },
             {
                 "calories": "3",
@@ -514,6 +722,14 @@
                 "name": "Sliced Cucumbers",
                 "protein": " 0 Gram",
                 "servingSize": " 6 Slices (19g)"
+            },
+            {
+                "calories": "3",
+                "carbs": " < 1 Gram",
+                "fat": " 0 Gram",
+                "name": "Green Pepper Rings",
+                "protein": " 0 Gram",
+                "servingSize": " 3 Rings (13g)"
             },
             {
                 "calories": "2",
